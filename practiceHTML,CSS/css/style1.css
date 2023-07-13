@@ -1,0 +1,20 @@
+/* style1.css */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #87CEEB;
+    text-align: center;
+    padding: 20px;
+
+}
+header h1{
+    color: white;
+    font-size: 24px;
+    margin: 0;
+}
+main{
+    padding: 20px;
+}
